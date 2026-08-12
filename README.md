@@ -104,15 +104,3 @@ The final Excel dashboard focuses on:
 
 **Excel / WPS Office:** Data Cleaning · Excel Formulas · COUNTIF · COUNTIFS · SUMIF/SUMIFS · AVERAGEIF/AVERAGEIFS · IF Functions · Percentage Analysis · Pivot Tables · Pivot Charts · Conditional Formatting · KPI Design · HR Analytics · Workforce Analytics · Dashboard Development
 
-## Repository Structure
-
-```text
-HR_Workforce_Attrition_Analytics/
-├── HR_Workforce_Attrition_Analytics.xlsx
-├── screenshots/
-│   └── dashboard_overview.png
-└── README.md
-## Author
-
-**Kiran Kumar** — B.Sc. Data Science
-[LinkedIn](https://linkedin.com/in/kiran-p-kumar) · [GitHub](https://github.com/Kiran-p-Kumar) · [Portfolio](https://kiran-kumar-portfolio-six.vercel.app)
